@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Chocofamily Holding](https://chocofamily.kz/) 🤣
-- 💬 Ask me about PHP
+- 🔭 I’m currently working on a [Chocofamily Holding](https://chocofamily.kz/)
+- 💬 Ask me about PHP 🤣
 - 🌱 I’m currently learning GoLang 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
