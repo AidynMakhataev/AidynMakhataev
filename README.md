@@ -37,7 +37,7 @@ class About extends Me
 }
 ```
 
-
+<br/> <br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -59,13 +59,7 @@ class About extends Me
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AidynMakhataev&show_icons=true)
 
-[![Laravel EventSauce](https://github-readme-stats.vercel.app/api/pin/?username=chocofamilyme&repo=laravel-eventsauce)](https://github.com/chocofamilyme/laravel-eventsauce)
-
-[![Laravel Surveyjs](https://github-readme-stats.vercel.app/api/pin/?username=AidynMakhataev&repo=laravel-surveyjs)](https://github.com/AidynMakhataev/laravel-surveyjs)
-
 [![Laravel Tarantool Session](https://github-readme-stats.vercel.app/api/pin/?username=AidynMakhataev&repo=laravel-tarantool-session)](https://github.com/AidynMakhataev/laravel-tarantool-session)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidynMakhataev)](https://github.com/AidynMakhataev/)
 
 
 [linkedin]: https://www.linkedin.com/in/aidyn-makhataev/
