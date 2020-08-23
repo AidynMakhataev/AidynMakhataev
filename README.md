@@ -3,9 +3,11 @@
 ```php
 <?php
 
+declare(strict_types=1);
+
 namespace AidynMakhataev;
 
-class About extends Me
+final class About extends Me
 {
     public function getCurrentWorkplace(): array
     {
