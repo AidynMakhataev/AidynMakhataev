@@ -60,7 +60,7 @@ final class About extends Me
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AidynMakhataev&show_icons=true)
 
-[![Laravel Tarantool Session](https://github-readme-stats.vercel.app/api/pin/?username=AidynMakhataev&repo=laravel-tarantool-session)](https://github.com/AidynMakhataev/laravel-tarantool-session)
+[![Laravel Events Attributes](https://github-readme-stats.vercel.app/api/pin/?username=AidynMakhataev&repo=laravel-events-attributes)](https://github.com/AidynMakhataev/laravel-events-attributes)
 
 
 [linkedin]: https://www.linkedin.com/in/aidyn-makhataev/
