@@ -44,9 +44,8 @@ final class About extends Me
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 🔭 I’m currently working on a [Chocofamily Holding](https://chocofamily.kz/)
-- 💬 Ask me about PHP 
-- 🌱 I’m currently learning GoLang 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about PHP
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
