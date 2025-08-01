@@ -1,13 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<br/> <br/>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-- 💬 Ask me about Golang & PHP
-- 🥅 2023 Goals: Contribute more to Open Source projects
-
-<br />
 
 ### Connect with me:
 
